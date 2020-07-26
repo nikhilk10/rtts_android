@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "425590934426",
+    "firebase_url": "https://rtts-b18e9.firebaseio.com",
+    "project_id": "rtts-b18e9",
+    "storage_bucket": "rtts-b18e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425590934426:android:cd27bd6224ce5f4a9ac823",
+        "android_client_info": {
+          "package_name": "com.example.realtimetokensystemapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425590934426-9s431av4n18heg8ei78948ceokgb1pb8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realtimetokensystemapp",
+            "certificate_hash": "9cabfdb130df02847ddd4375ce5b7af50d905e63"
+          }
+        },
+        {
+          "client_id": "425590934426-h1g2v1hbdolc84i0njf9303umjsknhuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf1jB89hraDO2nBRhMi17sUXd6-9KWPe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425590934426-h1g2v1hbdolc84i0njf9303umjsknhuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

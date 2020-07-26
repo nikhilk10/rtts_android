@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RealTimeTokenSystemApp</string>
+    <string name="login">L o g i n</string>
+    <string name="signup">SignUp</string>
+    <string name="runtime_permissions_txt">Runtime Permission Error</string>
+    <string name="forgetpassword">Forget password</string>
+    <string name="rememberme">Remember Me</string>
+    <string name="username">Enter Username</string>
+    <string name="address">Enter Your Address</string>
+    <string name="email">Enter Your Email</string>
+    <string name="password">Password</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="reset">Reset</string>
+    <string name="submit">Submit</string>
+    <string name="areyousure">Are You Sure?</string>
+    <string name="createnewaccount">C r e a t e   a c c o u n t</string>
+    <string name="alreadyhaveanaccount">Already have an account!</string>
+</resources>
